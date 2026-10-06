@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sistema Hotelero - Control de Habitaciones, Turnos y Caja",
+  "description": "Sistema de gestión para hotel con control de habitaciones (Check-in/Check-out), catálogo de consumos de snacks y bebidas, control de gastos de caja chica, panel de reservas y reportes detallados por turnos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
